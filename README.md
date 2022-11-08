@@ -1,5 +1,4 @@
 My webpage
-<!DOCTYPE HTML>
 
 <html>
 	<head>
@@ -12,5 +11,5 @@ My webpage
 	<p>I like to listen to music I like to play different types of instruments. I also like to make beats</P>
 	<page-break>
 	<P> I also like to play football</p>
-	</body> 
+	
 </html>
