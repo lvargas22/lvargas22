@@ -4,8 +4,6 @@ My webpage
 <html>
 	<head>
 	<p> Hello World</p>
-	<page-break>
-	<p>lala</P>
 	</head>
 	
 	<body>
